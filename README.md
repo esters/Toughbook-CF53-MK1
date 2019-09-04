@@ -13,6 +13,6 @@ At the moment there are following issues with this device:
 
 ## BIOS
 
-Bios Vendor - American Megatrend Inc. (AMI)
-Bios Version - V1.00L15 M91
-Bios Platform - Aptio 4
+* Bios Vendor - American Megatrend Inc. (AMI)
+* Bios Version - V1.00L15 M91
+* Bios Platform - Aptio 4
