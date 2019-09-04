@@ -13,8 +13,11 @@ At the moment there are following issues with this device:
 
 ## BIOS
 
-* Bios Vendor - American Megatrend Inc. (AMI)
-* Bios Version - V1.00L15 M91
-* Bios Platform - Aptio 4
+* Vendor - American Megatrend Inc. (AMI)
+* Version - V1.00L15 M91
+* Platform - Aptio 4
+* IC - MXIC MX25L6406E  M2I-12G
 
 ![alt text](https://github.com/esters/Toughbook-CF53/blob/master/CF53-3LTSA43202.png "Screenshot")
+
+
