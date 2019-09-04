@@ -15,15 +15,20 @@ At the moment there are following issues with this device:
 
 * Motherboard - FM111mk1MAIN PCB / DFUP1943ZA(1)PbF HF
 * CPU - Intel Core i5-2520M (SR04A)
-* Chipset - Intel QM67 Chipset - BD82QM67 (SLJ4M) 
+* Chipset - Intel QM67 Chipset - BD82QM67 (SLJ4M)
+* RAM - 4Gb Samsung M471B5273DH0-YH9 DDR3
 
 ## BIOS
 
 * Vendor - American Megatrend Inc. (AMI)
 * Version - V1.00L15 M91
 * Platform - Aptio 4
-* IC - MXIC MX25L6406E  M2I-12G
+* IC - MXIC MX25L6406E M2I-12G
 
 ![alt text](https://github.com/esters/Toughbook-CF53/blob/master/CF53-3LTSA43202.png "Screenshot")
+
+![alt text](https://raw.githubusercontent.com/esters/Toughbook-CF53/master/Motherboard%20-%201.jpg "Motherboard")
+
+![alt text](https://raw.githubusercontent.com/esters/Toughbook-CF53/master/Motherboard%20-%202.jpg "Motherboard")
 
 
