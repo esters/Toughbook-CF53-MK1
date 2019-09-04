@@ -17,4 +17,4 @@ At the moment there are following issues with this device:
 * Bios Version - V1.00L15 M91
 * Bios Platform - Aptio 4
 
-(https://github.com/esters/Toughbook-CF53/blob/master/CF53-3LTSA43202.png "Screenshot")
+![alt text](https://github.com/esters/Toughbook-CF53/blob/master/CF53-3LTSA43202.png "Screenshot")
