@@ -11,6 +11,12 @@ At the moment there are following issues with this device:
 * Hard Disk Lock is present in the BIOS and the password is not known
 * Device is pre-installed with a Windows 7 SP1 image and has a WinPE recovery partition available.
 
+## Hardware
+
+* Motherboard - FM111mk1MAIN PCB / DFUP1943ZA(1)PbF HF
+* CPU - Intel Core i5-2520M (SR04A)
+* Chipset - Intel QM67 Chipset - BD82QM67 (SLJ4M) 
+
 ## BIOS
 
 * Vendor - American Megatrend Inc. (AMI)
