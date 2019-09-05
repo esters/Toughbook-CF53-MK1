@@ -3,7 +3,8 @@
 ## Model - CF-53DAC20Q2
 
 This is a Work-In-Progress on removing the BIOS Administrator Password by using the methods and tools available online. 
-The initial work was done here - https://gist.github.com/en4rab/550880c099b5194fbbf3039e3c8ab6fd
+The initial work was done here - https://gist.github.com/en4rab/550880c099b5194fbbf3039e3c8ab6fd.
+
 At the moment there are following issues with this device:
 
 * Pressing F2/F10 while on POST asks for the Administrator password 
