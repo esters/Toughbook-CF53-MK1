@@ -12,6 +12,12 @@ At the moment there are following issues with this device:
 * Hard Disk Lock is present in the BIOS and the password is not known
 * Device is pre-installed with a Windows 7 SP1 image and has a WinPE recovery partition available.
 
+Present:
+
+- [x] BIOS image has been succesfully dumped, patched and flashed back with the BIOS password removed
+- [x] HDD password has been guessed and the locked drive can be unlocked after the patched BIOS image has been flashed
+- [ ] BIOS master password hashing algorithm is unknow. The password is 160 bits long (probably SHA1)
+
 ## Hardware
 
 * Motherboard - FM111mk1MAIN PCB / DFUP1943ZA(1)PbF HF
