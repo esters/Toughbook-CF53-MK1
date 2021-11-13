@@ -32,4 +32,15 @@ At the moment there are following issues with this device:
 
 ![alt text](https://github.com/esters/Toughbook-CF53/blob/master/Motherboard%20-%202.jpg "Motherboard")
 
+---
+
+# BIOS Removal
+
+After obtaining information from helpful people on the en4rab gist. I've decided to delete all the BIOS password entries in the dump and flash it back.
+
+Open your favourite Hex editor. I used HxD and replaced the following entry with zeros:
+
+```
+5B C6 B6 55 11 64 6C 4B C7 A7 22 16 7D 70 D8 DA 33 27 8E 4F E9 93 44 64 9F 25 FA B9 55 51 B0 C1 0B EB 66 90 C1 1C 1C 2E 77 16 D2 A9 2D 3D 88 D0 E3 63 3E F7 99 8A F4 1D 4F B1 AA 44 05 D8 60 6B
+```
 
