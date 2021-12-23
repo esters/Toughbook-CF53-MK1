@@ -105,3 +105,9 @@ To unlock the drive I used a Linux Live-CD with hdparm. You should use hdparm wi
 # hdparm --security-unlock hex:5BC6B65511646C4BC7A722167D70D8DA33278E4FE99344649F25FAB95551B0C1 /dev/sda
 security_password: 5b c6 b6 55 11 64 6c 4b c7 a7 22 16 7d 70 d8 da 33 27 8e 4f e9 93 44 64 9f 25 fa b9 55 51 b0 c1
 ```
+
+To permanently disable the hard disk password execute the following command:
+
+```
+# hdparm --user-master u --security-disable hex:5BC6B65511646C4BC7A722167D70D8DA33278E4FE99344649F25FAB95551B0C1 /dev/sda
+```
